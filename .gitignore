@@ -1,0 +1,8 @@
+*.class
+*.swp
+/bin/
+.classpath
+*.prefs
+*.classpath
+*.project
+*.csv#
