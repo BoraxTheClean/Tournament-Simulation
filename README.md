@@ -39,3 +39,9 @@ Several other players and teams have achieved success with similar algorithms.  
 # Authors
 
 David Steinberg (Shoop) and [Owen Collier-Ridge](https://owen.dev).
+
+# Attributions
+
+In this project we used code authored by Kevin Wayne and Robert Sedgewick.
+- https://algs4.cs.princeton.edu/65reductions/LinearProgramming.java.html
+- https://algs4.cs.princeton.edu/65reductions/TwoPersonZeroSumGame.java.html
